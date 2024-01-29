@@ -4,3 +4,4 @@ git status -> check what files are in the staging area
 git commit -m "Commit message" -> Commit to the local Git repository
 git log -> Check the commits made
 git checkout -> Revert back to the previous working version
+git push -u origin master
