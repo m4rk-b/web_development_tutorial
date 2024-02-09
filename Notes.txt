@@ -26,4 +26,6 @@ To commit the changes:
 git add
 git commit
 
-NOTES: Initially the name of the 'main' branch is 'master', to modify the name run: git branch -M main
+NOTES: 
+1. Initially the name of the 'main' branch is 'master', to modify the name run: git branch -M main
+2. Always check github for merge requests
