@@ -17,6 +17,9 @@ git merge "Branch name" -> Merging the branch to main
 git branch -> To check the project branches, branch with '*' is the active branch
 git checkout "Branch name" -> To switch to the created branch
 
+To push branch:
+git push -u origin branch-name
+
 To commit the changes:
 git add
 git commit
