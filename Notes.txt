@@ -20,3 +20,5 @@ git checkout "Branch name" -> To switch to the created branch
 To commit the changes:
 git add
 git commit
+
+Test edit inside test-branch
