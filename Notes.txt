@@ -25,3 +25,5 @@ git push -u origin branch-name
 To commit the changes:
 git add
 git commit
+
+NOTES: Initially the name of the 'main' branch is 'master', to modify the name run: git branch -M main
