@@ -7,18 +7,3 @@ git checkout -> Revert back to the previous working version
 Create a new github repository
 git remote add origin ".git url that you can check after creating a new repository at github"
 git push -u origin master
-
-For clone:
-git clone "git url"
-
-Branching and Merging:
-git branch "Name of your branch" -> Creating a branch
-git merge "Branch name" -> Merging the branch to main
-git branch -> To check the project branches, branch with '*' is the active branch
-git checkout "Branch name" -> To switch to the created branch
-
-To commit the changes:
-git add
-git commit
-
-This is a text added to master branch
