@@ -7,3 +7,6 @@ git checkout -> Revert back to the previous working version
 Create a new github repository
 git remote add origin ".git url that you can check after creating a new repository at github"
 git push -u origin master
+
+
+This text is created for test-branch.
